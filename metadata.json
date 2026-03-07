@@ -1,0 +1,9 @@
+{
+  "name": "LocalSites OS",
+  "description": "SaaS Multi-tenant para geração de sites locais e gestão de leads com CRM integrado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
