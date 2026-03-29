@@ -11,4 +11,5 @@ export const NICHES: Niche[] = [
   { id: '8', name: 'Pintor Residencial', slug: 'pintor', icon: 'Paintbrush', description: 'Pintura interna e externa.' },
   { id: '9', name: 'Vidraçaria', slug: 'vidracaria', icon: 'Square', description: 'Box, espelhos e vidros em geral.' },
   { id: '10', name: 'Assistência Técnica', slug: 'assistencia', icon: 'Smartphone', description: 'Conserto de eletrodomésticos e eletrônicos.' },
+  { id: '11', name: 'Imobiliária', slug: 'imobiliaria', icon: 'Home', description: 'Venda e locação de imóveis residenciais e comerciais.' },
 ];

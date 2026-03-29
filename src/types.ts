@@ -27,6 +27,16 @@ export interface Project {
     address: string;
     services: string[];
     cities: string[];
+    logoUrl?: string;
+    properties?: {
+      id: string;
+      title: string;
+      price: string;
+      type: 'venda' | 'locação';
+      beds: number;
+      area: string;
+      imageUrl: string;
+    }[];
   };
 }
 
